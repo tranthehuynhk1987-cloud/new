@@ -1020,7 +1020,7 @@ function run(Player)
 					},
 					["NippleL"] = {
 						["Instance"] = "Mesh",
-						["MeshId"] = "rbxassetid://5270413936",
+						["MeshId"] = "rbxassetid://125329202417997",
 						["Color"] = 0.9973507482925269,
 						["Function"] = {},
 						["Transparency"] = 0,
@@ -1069,7 +1069,7 @@ function run(Player)
 					},
 					["NippleR"] = {
 						["Instance"] = "Mesh",
-						["MeshId"] = "rbxassetid://5270413632",
+						["MeshId"] = "rbxassetid://110869083614661",
 						["Color"] = 0.9973507482925269,
 						["Function"] = {},
 						["Transparency"] = 0,
