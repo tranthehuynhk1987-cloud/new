@@ -1158,9 +1158,9 @@ function run(Player)
 						["Material"] = Enum.Material.SmoothPlastic,
 						["Shape"] = Enum.PartType.Block,
 						["Size"] = {
-							["y"] = 1.3673850297927856,
-							["x"] = 1.2358603477478027,
-							["z"] = 1.3591563701629639
+							["y"] = 2.7347700595855712,
+							["x"] = 2.4717206954956054,
+							["z"] = 2.7183127403259278
 						},
 						["AdjustScale"] = {"Size","CFrame","CFrame1"},
 					},
@@ -1390,9 +1390,9 @@ function run(Player)
 						["Material"] = Enum.Material.SmoothPlastic,
 						["Shape"] = Enum.PartType.Block,
 						["Size"] = {
-							["y"] = 1.3673850297927856,
-							["x"] = 1.2358603477478027,
-							["z"] = 1.3591563701629639
+                            ["y"] = 2.7347700595855712,
+							["x"] = 2.4717206954956054,
+							["z"] = 2.7183127403259278
 						},
 						["AdjustScale"] = {"Size","CFrame","CFrame1"},
 					},
