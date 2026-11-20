@@ -921,7 +921,7 @@ function run(Player)
 								["x"] = 1,
 								["z"] = 0.949999988079071
 							},
-							["MeshId"] = "rbxassetid://110869083614661",
+							["MeshId"] = "rbxassetid://132922517258698",
 							["MeshType"] = Enum.MeshType.FileMesh,
 							["TextureId"] = ""
 						},
@@ -955,9 +955,9 @@ function run(Player)
 						["Material"] = Enum.Material.Plastic,
 						["Shape"] = Enum.PartType.Block,
 						["Size"] = {
-							["y"] = 2.4475934505462646,
-							["x"] = 2.3376903533935546,
-							["z"] = 2.0764460563659668
+							["y"] = 1.6237967252731323,
+							["x"] = 1.3688451766967773,
+							["z"] = 1.2382230281829834
 						},
 						["AdjustScale"] = {"Size"},
 					},
@@ -978,7 +978,7 @@ function run(Player)
 								["x"] = 1,
 								["z"] = 0.949999988079071
 							},
-							["MeshId"] = "rbxassetid://125329202417997",
+							["MeshId"] = "rbxassetid://85193503766229",
 							["MeshType"] = Enum.MeshType.FileMesh,
 							["TextureId"] = ""
 						},
@@ -1012,9 +1012,9 @@ function run(Player)
 						["Material"] = Enum.Material.Plastic,
 						["Shape"] = Enum.PartType.Block,
 						["Size"] = {
-							["y"] = 2.4475934505462646,
-							["x"] = 2.3376903533935546,
-							["z"] = 2.0764460563659668
+							["y"] = 1.6237967252731323,
+							["x"] = 1.3688451766967773,
+							["z"] = 1.2382230281829834
 						},
 						["AdjustScale"] = {"Size"},
 					},
@@ -1158,9 +1158,9 @@ function run(Player)
 						["Material"] = Enum.Material.SmoothPlastic,
 						["Shape"] = Enum.PartType.Block,
 						["Size"] = {
-							["y"] = 2.7347700595855712,
-							["x"] = 2.4717206954956054,
-							["z"] = 2.7183127403259278
+							["y"] = 1.6673850297927856,
+							["x"] = 1.4358603477478027,
+							["z"] = 1.6591563701629639
 						},
 						["AdjustScale"] = {"Size","CFrame","CFrame1"},
 					},
@@ -1390,9 +1390,9 @@ function run(Player)
 						["Material"] = Enum.Material.SmoothPlastic,
 						["Shape"] = Enum.PartType.Block,
 						["Size"] = {
-                            ["y"] = 2.7347700595855712,
-							["x"] = 2.4717206954956054,
-							["z"] = 2.7183127403259278
+							["y"] = 1.6673850297927856,
+							["x"] = 1.4358603477478027,
+							["z"] = 1.6591563701629639
 						},
 						["AdjustScale"] = {"Size","CFrame","CFrame1"},
 					},
